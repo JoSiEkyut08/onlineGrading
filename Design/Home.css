@@ -1,7 +1,10 @@
 body { /* to remove white spaces between div and body */
 	margin:0;
-	background-color: #4CAF50;
-}
+	background-image: url(325239845_874909813795543_2149105868658347415_n);
+	background-repeat: no-repeat;
+	width: 2048px;
+	height: 921px;
+	}
 
 button{
 	outline:none;
